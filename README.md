@@ -10,8 +10,8 @@
 -  🌱 I’m a Full and a Tall stack dev.
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with open source projects
-- 💬 Ask me about [@laravel](https://laravel.com/) [@vue](https://vuejs.org/) [@symphony](https://symfony.com/) [@wordpress](https://wordpress.org/) [@flutter](https://flutter.dev/) [@android](https://www.android.com/)
-- 📫 How to reach me:  [@Twitter](https://twitter.com/epmnzava)  [@email](http://mailto:epmnzava@gmail.com) [@livewire](https://laravel-livewire.com/)
+- 💬 Ask me about [@laravel](https://laravel.com/) [@vue](https://vuejs.org/) [@symphony](https://symfony.com/) [@wordpress](https://wordpress.org/) [@flutter](https://flutter.dev/) [@android](https://www.android.com/) [@livewire](https://laravel-livewire.com/)
+- 📫 How to reach me:  [@Twitter](https://twitter.com/epmnzava)  [@email](http://mailto:epmnzava@gmail.com) 
 
 
 
