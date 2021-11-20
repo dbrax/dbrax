@@ -6,6 +6,7 @@
 ### My Name is Emmanuel Paul Mnzava
 
 - 🔭 I’m currently working on providing more value to merchants through [storewid.com](https://storewid.com)
+- 🌱  I'm Currenctly finalizing the launch of a wordpress plugin for mobile payments
 - 🌱 I’m currently learning flutter
 -  🌱 I’m a Full and a Tall stack dev.
 - 👯 I’m looking to collaborate on opensource projects
