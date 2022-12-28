@@ -7,10 +7,9 @@
 ### My Name is Emmanuel Paul Mnzava
 
 - 🔭 I’m currently working on providing more value to merchants through [storewid.com](https://storewid.com)
-- 🌱  I'm Currenctly finalizing the launch of a wordpress plugin for mobile payments
-- 🌱 I’m currently learning flutter
--  🌱 I’m a Full and a Tall stack dev.
+-  🌱 I’m a Full , Mern and a Tall stack dev .
 - 👯 I’m looking to collaborate on opensource projects
+- 👨‍💻 I enjoy creating plugins,apps , libraries and or packages for  ( wordpress , shopify , wix , laravel , react native etc ...) 
 - 🤔 I’m looking for help with open source projects
 - 💬 Ask me about [@laravel](https://laravel.com/) [@vue](https://vuejs.org/) [@symphony](https://symfony.com/) [@wordpress](https://wordpress.org/) [@flutter](https://flutter.dev/) [@android](https://www.android.com/) [@livewire](https://laravel-livewire.com/) [@react](https://reactjs.org/) 
 - [@reactnative](https://reactnative.dev/)
